@@ -1,0 +1,5 @@
+- 👋 Hi📧, I’m Jeriko 
+- 👀 I’m interested in AI,Competitive Programming and Backend Development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me, please mail me 📧jhvonsky@gmail.com 
