@@ -31,6 +31,7 @@ current_job: -
 education:
   [
     "Self-Taught Developer",
+    "Software Engineering Student at MediaInformatika Vocationa School"
   ]
 company: -
 
@@ -42,7 +43,6 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Software Engineering Student at MediaInformatika Vocationa School",
     "Intern - Backend Developer",
   ]
   
