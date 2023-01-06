@@ -47,7 +47,7 @@ technical_background:
   ]
   
 currently_learning: ["Python, Django"]
-hobbies: ["Motorcycle", "Basketball", "Gym", "Reading"]
+hobbies: ["Motorcycle", "Basketball", "Gym", "Reading","Competitive Programming"]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
