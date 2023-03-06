@@ -5,7 +5,7 @@
   Let's Connect and have a Chat!💬
 </h1>
  <p align="center">
-<a href="https://jhvonsky.netlify.app/">
+<a href="https://jhvonsky.vercel.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 <a href="https://www.linkedin.com/in/jeriko-ichtus-seo-a850a5214/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bb7vIk%2FlUS3e4MaQpfT%2BbLA%3D%3D">
