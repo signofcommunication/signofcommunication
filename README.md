@@ -30,8 +30,8 @@ name: Jeriko Seo
 located_in: Jakarta, Indonesia
 current_job: IT Intern
 education:
-  ["Software Engineering Student at MediaInformatika Vocational School","Matana University"]
-company: -
+  ["Software Engineering Student at MediaInformatika Vocational School", "Matana University"]
+company: Digikidz, Matana University
 
 fields_of_interests:
   [
