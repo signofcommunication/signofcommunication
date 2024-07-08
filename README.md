@@ -28,12 +28,9 @@
 ```yaml
 name: Jeriko Seo
 located_in: Jakarta, Indonesia
-current_job: -
+current_job: IT Intern
 education:
-  [
-    "Self-Taught Developer",
-    "Software Engineering Student at MediaInformatika Vocationa School"
-  ]
+  ["Software Engineering Student at MediaInformatika Vocational School","Matana University"]
 company: -
 
 fields_of_interests:
@@ -42,13 +39,6 @@ fields_of_interests:
     "Machine Learning",
     "DevOps",
   ]
-technical_background:
-  [
-    "Intern - Backend Developer",
-  ]
-  
-currently_learning: ["Python, Django"]
-hobbies: ["Motorcycle", "Basketball", "Gym", "Reading","Competitive Programming"]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
