@@ -1,4 +1,14 @@
-I am Jhvonsky, a student at Matana University majoring in Informatics Engineering. Currently, I am working as a Frontend Developer.<br><br>In my free time, I usually either work on side projects or learn about new stuff related to web development and DevOps. Or I am just riding around with my motorbike and playing games.<br><br>I almost always listen to music whenever I can. My taste ranges from Eminem masterpieces or movie soundtracks to catchy Japanese popular music. The combinations of the two, like pieces by Seven Oops, are simply perfection ✨
+👋 Hi, I'm Jhvonsky — a student at Matana University, majoring in Informatics Engineering, and currently working as a Frontend Developer.
+
+🚀 In my free time, you'll find me:
+
+Building side projects or diving into new tech related to web development and DevOps
+
+Cruising around on my motorbike 🏍️
+
+Playing games to unwind 🎮
+
+🎧 Music is always with me — whether it's iconic Eminem tracks, epic movie soundtracks, or vibrant Japanese pop. I especially love the fusion of styles, like the works of Seven Oops — pure perfection ✨
 
 
 ## 🌐 Socials:
