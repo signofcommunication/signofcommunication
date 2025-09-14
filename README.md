@@ -1,6 +1,6 @@
-👨‍💻 Informatics Engineering Student at Matana University
-🚀 Passionate about Web Development & DevOps
-🏍️ Motorbike enthusiast | 🎮 Gamer | 🎧 Music lover
+👨‍💻 Informatics Engineering Student at Matana University<br/>
+🚀 Passionate about Web Development & DevOps<br/>
+🏍️ Motorbike enthusiast | 🎮 Gamer | 🎧 Music lover<br/>
 
 
 ## 🌐 Socials:
