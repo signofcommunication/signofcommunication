@@ -1,14 +1,6 @@
-👋 Hi, I'm Jhvonsky — a student at Matana University, majoring in Informatics Engineering, and currently working as a Frontend Developer.
-
-🚀 In my free time, you'll find me:
-
-Building side projects or diving into new tech related to web development and DevOps
-
-Cruising around on my motorbike 🏍️
-
-Playing games to unwind 🎮
-
-🎧 Music is always with me — whether it's iconic Eminem tracks, epic movie soundtracks, or vibrant Japanese pop. I especially love the fusion of styles, like the works of Seven Oops — pure perfection ✨
+👨‍💻 Informatics Engineering Student at Matana University
+🚀 Passionate about Web Development & DevOps
+🏍️ Motorbike enthusiast | 🎮 Gamer | 🎧 Music lover
 
 
 ## 🌐 Socials:
